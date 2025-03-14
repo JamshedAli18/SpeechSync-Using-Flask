@@ -11,4 +11,4 @@ A beautifully designed web-based text-to-speech converter with voice selection (
 1. Clone the repository:
    ```bash
    git clone https://github.com/jamshedali18/SpeechSync-Using-Flask.git
-   cd VoiceCraft
+   cd SpeechSync-Using-Flask
